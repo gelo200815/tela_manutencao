@@ -1,1 +1,1 @@
-# tela_manutencao
+# tela_equipamento
